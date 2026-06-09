@@ -16,7 +16,11 @@ function App() {
           <img src={viteLogo} className="vite" alt="Vite logo" />
         </div>
         <div>
+<<<<<<< HEAD
           <h1>Get started By Rhys Murage</h1>
+=======
+          <h1>Get started by Terry Yegon</h1>
+>>>>>>> dcdce00 (changes by Tee)
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
