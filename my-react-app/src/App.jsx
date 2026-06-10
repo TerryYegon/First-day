@@ -38,9 +38,13 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
+<<<<<<< HEAD
 
           <p>Oh Oh!! I want to cause a very big merge conflict</p>          <ul>
   
+=======
+          <p>Oh Oh!! I want to cause a very big merge conflict</p>          <ul>
+>>>>>>> c78a2ff94c4f11fec6643c56442dba7b8bdc22fa
             <li>
               <a href="https://vite.dev/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
