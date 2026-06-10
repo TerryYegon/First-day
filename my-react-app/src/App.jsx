@@ -38,8 +38,12 @@ function App() {
             <use href="/icons.svg#documentation-icon"></use>
           </svg>
           <h2>Documentation</h2>
+<<<<<<< HEAD
           <p>Oh Oh!! I want to cause a merge conflict</p>
           <ul>
+=======
+          <p>Oh Oh!! I want to cause a very big merge conflict</p>          <ul>
+>>>>>>> 2561a95 (FIX MEgit checkout -b fix-this-conflict)
             <li>
               <a href="https://vite.dev/" target="_blank">
                 <img className="logo" src={viteLogo} alt="" />
